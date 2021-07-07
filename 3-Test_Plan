@@ -1,12 +1,12 @@
 TEST_PLAN of TIC-TAC-TOE
 
-TEST PLAN
+##TEST PLAN##
 
 
-•	The function written to display 3x3 grid has to be tested and also make sure it is displayed in desired format.
+•	*The function written to display 3x3 grid has to be tested and also make sure it is displayed in desired format.
 
 •	Secondly marking the grid that is placing X and O within a gird should be tested. As it will be a 3x3 grid, the marking has to be done between 1-9 places of the grid. 
 If the player exceeds this range (Ex: 10 or 11) a pop up of “invalid move” should be displayed.
 
 •	Lastly displaying the winner of the game by checking all the possibilities and also to display a tie if no player could mark vertical/horizontal/diagonal with
-his/her respective character (X or O).
+his/her respective character (X or O).*
